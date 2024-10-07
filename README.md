@@ -1,6 +1,5 @@
 # OpenGL---Baldosa
-Tarea 2
-Dada la baldosa publicada en Canvas, se espera que pueda diseñarla con openGL bajo
+Tarea 2: Dada la baldosa publicada en Canvas, se espera que pueda diseñarla con openGL bajo
 glfw. Deben utilizar funciones o procedimientos para lograr un código modular.
 Es obligatorio seguir el trazado de bordes de la obra pero pueden colorearla a su gusto
 respetando las siguientes condiciones:
